@@ -1,2 +1,11 @@
 # projeto-a3
-Projeto do trabalho da A3, da universidade Faseh, 2024.
+O Grupo será constituído por:
+
+Kaylaine Martins Casimiro
+Rafael Henrique Alves de Freitas
+Wendel Victor Santos Xavier
+
+/\_/\
+(ovo)
+(___)
+-v-v------#
