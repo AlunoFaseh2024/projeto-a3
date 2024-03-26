@@ -1,11 +1,12 @@
-# projeto-a3
-O Grupo será constituído por:
+<h1>projeto-a3</h1>
+<h2>O Grupo será constituído por:</h2>
 
-Kaylaine Martins Casimiro
-Rafael Henrique Alves de Freitas
-Wendel Victor Santos Xavier
-
+<li>Kaylaine Martins Casimiro</li>
+<li>Rafael Henrique Alves de Freitas</li>
+<li>Wendel Victor Santos Xavier</li>
+<pre>
 /\_/\
 (ovo)
 (___)
 -v-v------#
+</pre>
