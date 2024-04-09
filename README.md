@@ -1,4 +1,4 @@
-<h1>projeto-a3</h1>
+<h1>PROJETO-A3</h1>
 <h2>O Grupo será constituído por:</h2>
 
 <li>Kaylaine Martins Cassimiro</li>
