@@ -1,5 +1,5 @@
 cd desktop
-git clone https://github.com/cleberleao/oficina-spring-boot
+git clone https://github.com/cleberleao/oficina-spring-boot.git
 (entrar dentro da pasta baixada no terminal)
 git init
 git config --global user.email "email"
