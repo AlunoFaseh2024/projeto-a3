@@ -1,0 +1,17 @@
+Entidades, bibliotecas: org.*
+Identificador do usuário, coluna única, ex: col. email.
+Cria ID de usuário, mais um identificador.
+Nome de usuário, emaul, ID, senha. 
+
+Nullable> : não pode ser vazio.
+Boolean> : se é verdadeiro ou falso.
+
+Criação de padrão para tudo o que for feito, documentar padrão.
+
+
+Requisito_1: sistema  de cadastro com nome, email, senha e id
+Requisito_2: servidor web http local (graças ao springboot)
+Requisito_3: banco de dados (mysql)
+
+Sistema de cadastro e login, servidor web, para quê exatamente serve todo o código?
+Possível sistema de cadastro de usuários via página web?
