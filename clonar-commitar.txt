@@ -5,5 +5,5 @@ git init
 git config --global user.email "email"
 git config --global user.name "nome ou usuário do github"
 (editar itens dentro da pasta)
-git add
+git add .
 git commit -m "repositorio"
